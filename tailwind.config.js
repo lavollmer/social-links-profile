@@ -13,8 +13,8 @@ module.exports = {
         neutral: {
           white: "hsl(0, 0%, 100%)",
           grey: "hsl(0, 0%, 20%)",
-          "dark-grey": "hsl(0, 0%, 12%)",
-          "off-black": "hsl(0, 0%, 8%)",
+          darkgrey: "hsl(0, 0%, 12%)",
+          offblack: "hsl(0, 0%, 8%)",
         },
       },
     },
