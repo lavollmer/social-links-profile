@@ -20,12 +20,9 @@ function App() {
           "Front-end developer and avid reader."
         </h2>
       </div>
-      <div>
-        <button className="bg-darkgrey inline-block hover:bg-primary-green px-4 py-2">
-          <a
-            href="https://twitter.com"
-            className="font-inter text-neutral-white"
-          >Twitter</a>
+      <div className="bg-offblack">
+        <button className="inline-block text-neutral-white hover:bg-primary-green px-4 py-2">
+          Twitter
         </button>
       </div>
     </div>
