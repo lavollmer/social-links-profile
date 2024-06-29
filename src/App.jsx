@@ -20,11 +20,10 @@ function App() {
           "Front-end developer and avid reader."
         </h2>
       </div>
-      <div className="bg-offblack">
-        <button className="inline-block text-neutral-white hover:bg-primary-green px-4 py-2">
-          Twitter
-        </button>
-      </div>
+
+      <button className="inline-block px-4 py-2 text-neutral-white hover:bg-primary-green">
+        Twitter
+      </button>
     </div>
   );
 }
