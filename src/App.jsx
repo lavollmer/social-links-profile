@@ -8,7 +8,7 @@ function App() {
         <img
           src={profilePic}
           alt="Profile Picture of Jessica"
-          className="rounded-full flex justify-center"
+          className="rounded-full mx-auto w-24 h-24"
         />
         <div className="flex flex-col">
           <h1 className="font-inter text-2xl text-neutral-white">
