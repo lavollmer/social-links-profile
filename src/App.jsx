@@ -11,13 +11,13 @@ function App() {
           className="rounded-full mx-auto w-24 h-24"
         />
         <div className="flex flex-col">
-          <h1 className="font-inter text-2xl text-neutral-white">
+          <h1 className="font-inter text-xl text-neutral-white">
             Jessica Randall
           </h1>
-          <h2 className="font-inter text-primary-green">
+          <h2 className="font-inter text-lg text-primary-green">
             London, United Kingdom
           </h2>
-          <h2 className="font-inter text-neutral-white">
+          <h2 className="font-inter text-xs text-neutral-white">
             "Front-end developer and avid reader."
           </h2>
         </div>
