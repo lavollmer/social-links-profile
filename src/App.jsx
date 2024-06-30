@@ -3,8 +3,8 @@ import profilePic from "./assets/avatar-jessica.jpeg";
 
 function App() {
   return (
-    <div className="flex flex-col bg-black">
-      <div className="bg-offblack">
+    <div className="flex flex-col bg-black p-4">
+      <div className="w-full max-w-md p-4 rounded-lg bg-neutral-offblack">
         <img
           src={profilePic}
           alt="Profile Picture of Jessica"
@@ -22,7 +22,7 @@ function App() {
           </h2>
         </div>
 
-        <button className="flex flex-row px-2 py-2 text-neutral-white hover:bg-primary-green">
+        <button className="flex flex-row px-2 py-2 bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
           Twitter
         </button>
       </div>
