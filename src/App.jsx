@@ -21,10 +21,23 @@ function App() {
             "Front-end developer and avid reader."
           </h2>
         </div>
-
-        <button className="flex flex-row px-2 py-2 bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
-          Twitter
-        </button>
+        <div className="flex flex-col">
+          <button className="flex flex-row justify-center items-center text-center px-2 py-2 rounded-lg bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
+            Github
+          </button>
+          <button className="flex flex-row justify-center items-center text-center px-2 py-2 rounded-lg bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
+            Frontend Mentor
+          </button>
+          <button className="flex flex-row justify-center items-center text-center px-2 py-2 rounded-lg bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
+            LinkedIn
+          </button>
+          <button className="flex flex-row justify-center items-center text-center px-2 py-2 rounded-lg bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
+            Twitter
+          </button>
+          <button className="flex flex-row justify-center items-center text-center px-2 py-2 rounded-lg bg-neutral-darkgrey text-neutral-white hover:bg-primary-green">
+            Instagram
+          </button>
+        </div>
       </div>
     </div>
   );
