@@ -4,14 +4,14 @@ import profilePic from "./assets/avatar-jessica.jpeg";
 function App() {
   return (
     <>
-      <div className="flex flex-col bg-black p-4">
+      <div className="flex flex-col bg-black md:flex-row md:p-8 p-4">
         <div className="w-full max-w-md p-4 rounded-lg space-y-4 bg-neutral-offblack">
           <img
             src={profilePic}
             alt="Profile Picture of Jessica"
             className="rounded-full mx-auto w-20 h-20"
           />
-          <div className="flex flex-col">
+          <div className="flex flex-col justify-center items-center">
             <h1 className="font-inter text-xl text-neutral-white">
               Jessica Randall
             </h1>
