@@ -1,4 +1,6 @@
-# Frontend Mentor - Social links profile solution
+# Social Links Profile Website
+
+This project involved creating a replica of a social links profile website, adhering strictly to a provided design. The challenge was to match the design 1:1 without any additional guidance on the code or frameworks to be used. The primary technologies leveraged for this project were ReactJS, JavaScript, TailwindCSS, and Vite.
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -16,32 +18,30 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+The project's scope involved developing a social links profile website page using ReactJS, Tailwind CSS, JavaScript, and Vite. I was provided with a collection of assets, including design examples, images, and fonts. The image was provided was of the profile page individual. The fonts used were from Google Fonts. The website featured a profile picture, the individual's name and location, a quote about them and five button links to various social media pages. The project required a precise understanding of tailwindCSS, flex box and design.
 
 ### The challenge
 
 Users should be able to:
-
 - See hover and focus states for all interactive elements on the page
+- Mobile responsive design
+- Color combination match to design presented
+- User's profile picture displayed
+- User's name, location and quote displayed
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Version Social Links Profile](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Mobile Responsive Version Social Links Profile](./screenshot.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social Links Profile Netlify Website](https://social-links-profile-frontend-lv.netlify.app/)
 
 ## My process
 
