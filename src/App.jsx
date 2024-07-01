@@ -5,13 +5,13 @@ function App() {
   return (
     <>
       <div className="flex flex-col md:justify-center md:items-center md:flex-row md:p-8 p-4">
-        <div className="w-full max-w-md p-4 rounded-lg space-y-4 bg-neutral-offblack">
+        <div className="w-full max-w-sm p-4 rounded-lg space-y-6 bg-neutral-offblack">
           <img
             src={profilePic}
             alt="Profile Picture of Jessica"
             className="rounded-full mx-auto w-20 h-20"
           />
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col justify-center items-center space-y-2">
             <h1 className="font-inter text-xl text-neutral-white">
               Jessica Randall
             </h1>
