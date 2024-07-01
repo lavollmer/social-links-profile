@@ -4,7 +4,7 @@ import profilePic from "./assets/avatar-jessica.jpeg";
 function App() {
   return (
     <>
-      <div className="flex flex-col bg-black md:flex-row md:p-8 p-4">
+      <div className="flex flex-col md:justify-center md:items-center md:flex-row md:p-8 p-4">
         <div className="w-full max-w-md p-4 rounded-lg space-y-4 bg-neutral-offblack">
           <img
             src={profilePic}
